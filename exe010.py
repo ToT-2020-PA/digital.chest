@@ -1,5 +1,5 @@
 rb = float(input('Quanto dinheiro vc tem na carteira? R$ '))
-dl = 5.21
+dl = 4.21
 er = 4.64
 ye = 0.39
 lb = 5.44

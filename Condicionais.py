@@ -1,4 +1,4 @@
-pythonnome = input('Qual seu nome? ')
+nome = input('Qual seu nome? ')
 saud = input('Olá, tudo Bem? ')
 if saud == 'sim':
     num1 = int(input('Digite um numero '))
